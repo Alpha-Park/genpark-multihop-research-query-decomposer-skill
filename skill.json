@@ -9,7 +9,7 @@
     "deep-research",
     "query-decomposition",
     "perplexity",
-    "genspark",
+    "genpark",
     "multi-hop-search"
   ],
   "inputs": {
