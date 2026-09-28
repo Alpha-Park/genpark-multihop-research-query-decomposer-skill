@@ -22,7 +22,7 @@
 
 **genpark-multihop-research-query-decomposer-skill** is a deterministic, zero-dependency Python skill engineered for autonomous scientific paper analysis, consensus ratio calculation, citation credibility verification, and multi-hop research query execution.
 
-> **Executive Capability**: Complex multi-faceted research prompt decomposer & synthesis DAG planner (Perplexity / Genspark)
+> **Executive Capability**: Complex multi-faceted research prompt decomposer & synthesis DAG planner (Perplexity / GenPark)
 
 ### ⚡ Key Highlights & Value
 * 🐍 **Zero External `pip` Dependencies**: Runs instantaneously on standard Python 3.9+ with zero environment bloat.
